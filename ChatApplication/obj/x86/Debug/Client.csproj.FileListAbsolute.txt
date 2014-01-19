@@ -1,0 +1,54 @@
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.exe
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.pdb
+D:\edu\programiranje\ChatApplication\ChatApplication\bin\Debug\ChatApplication.exe
+D:\edu\programiranje\ChatApplication\ChatApplication\bin\Debug\ChatApplication.pdb
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\MainWindow.baml
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\MainWindow.g.cs
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\App.g.cs
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication_MarkupCompile.cache
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.g.resources
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.Properties.Resources.resources
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\programiranje\ChatApplication\ChatApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.exe
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.pdb
+D:\edu\programming\ChatApplication\ChatApplication\bin\Debug\ChatApplication.exe
+D:\edu\programming\ChatApplication\ChatApplication\bin\Debug\ChatApplication.pdb
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\MainWindow.baml
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\MainWindow.g.cs
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\App.g.cs
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication_MarkupCompile.cache
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.g.resources
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\ChatApplication.Properties.Resources.resources
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\programming\ChatApplication\ChatApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\programming\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.exe
+D:\edu\programming\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.pdb
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.exe
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.pdb
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\bin\Debug\ChatApplication.exe
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\bin\Debug\ChatApplication.pdb
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\MainWindow.baml
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\MainWindow.g.cs
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\App.g.cs
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication_MarkupCompile.cache
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.g.resources
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.Properties.Resources.resources
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\dex\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.exe
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.pdb
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\bin\Debug\ChatApplication.exe
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\bin\Debug\ChatApplication.pdb
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\MainWindow.baml
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\MainWindow.g.cs
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\App.g.cs
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication_MarkupCompile.cache
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.g.resources
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\ChatApplication.Properties.Resources.resources
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\5. semestar\mreze racunala 2\labosi\MSGripper\ChatApplication\obj\x86\Debug\GenerateResource.write.1.tlog

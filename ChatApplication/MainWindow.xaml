@@ -1,0 +1,32 @@
+﻿<Window x:Class="ChatApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Client" Height="330" Width="521" Closing="Window_Closing" Icon="/ChatApplication;component/Images/Skull-icon.png" ResizeMode="NoResize" WindowStyle="SingleBorderWindow">
+    <Grid Height="293" Width="500">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*" />
+            <ColumnDefinition Width="231*" />
+            <ColumnDefinition Width="172*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="0" />
+                <GradientStop Color="Black" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Nickname" Height="28" HorizontalAlignment="Left" Name="label2" VerticalAlignment="Top" Width="111" Margin="12,0,0,0" Grid.ColumnSpan="2" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,21,0,0" Name="usrName" VerticalAlignment="Top" Width="187" Grid.ColumnSpan="2" />
+        <Button Content="Log in" Height="23" HorizontalAlignment="Left" Margin="71,21,0,0" Name="connectButton" VerticalAlignment="Top" Width="90" Click="connectButton_Click" Grid.Column="2" />
+        <ListBox Height="201" HorizontalAlignment="Left" Margin="12,50,0,0" Name="ChatWindow" VerticalAlignment="Top" Width="477" Background="WhiteSmoke" Grid.ColumnSpan="3" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,258,0,0" Name="message" VerticalAlignment="Top" Width="411" KeyDown="message_KeyDown" Grid.ColumnSpan="3" />
+        <Button Content="Send" Height="23" HorizontalAlignment="Left" Margin="101,0,0,12" Name="sendButton" VerticalAlignment="Bottom" Width="60" Click="sendButton_Click" Grid.Column="2" />
+        <TextBox Grid.Column="1" Grid.ColumnSpan="2" Height="23" HorizontalAlignment="Left" Margin="176,21,0,0" Name="ClientPort" VerticalAlignment="Top" Width="120" TextAlignment="Center" />
+        <Label Content="Port:" Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="176,0,0,0" Name="portClient" VerticalAlignment="Top" />
+    </Grid>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="White" Offset="0" />
+            <GradientStop Color="Black" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+</Window>
